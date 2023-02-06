@@ -1,0 +1,10 @@
+# Build and Release Folders
+
+.cache/
+.parcel-cache/
+.vscode/
+benchmark/results
+coverage/
+dist/
+node_modules/
+package-lock.json
